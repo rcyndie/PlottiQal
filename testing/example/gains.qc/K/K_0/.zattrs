@@ -1,0 +1,90 @@
+{
+    "DATA_DESC_ID": 0,
+    "FIELD_ID": 0,
+    "FIELD_NAME": "00",
+    "GAIN_AXES": [
+        "gain_time",
+        "gain_freq",
+        "antenna",
+        "direction",
+        "correlation"
+    ],
+    "GAIN_SPEC": [
+        [
+            1
+        ],
+        [
+            2000
+        ],
+        [
+            64
+        ],
+        [
+            1
+        ],
+        [
+            1
+        ]
+    ],
+    "NAME": "K",
+    "PARAM_AXES": [
+        "param_time",
+        "param_freq",
+        "antenna",
+        "direction",
+        "param_name"
+    ],
+    "PARAM_SPEC": [
+        [
+            1
+        ],
+        [
+            1
+        ],
+        [
+            64
+        ],
+        [
+            1
+        ],
+        [
+            2
+        ]
+    ],
+    "SCAN_NUMBER": 1,
+    "TYPE": "delay_and_offset",
+    "__daskms_zarr_attr__": {
+        "chunks": {
+            "antenna": [
+                64
+            ],
+            "correlation": [
+                1
+            ],
+            "direction": [
+                1
+            ],
+            "freq_chunk": [
+                1
+            ],
+            "gain_freq": [
+                2000
+            ],
+            "gain_time": [
+                1
+            ],
+            "param_freq": [
+                1
+            ],
+            "param_name": [
+                2
+            ],
+            "param_time": [
+                1
+            ],
+            "time_chunk": [
+                1
+            ]
+        }
+    }
+}

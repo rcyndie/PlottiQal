@@ -1,0 +1,13 @@
+{
+    "__daskms_zarr_attr__": {
+        "array_type": "dask.array.core.Array",
+        "coordinate": false,
+        "dims": [
+            "param_time",
+            "param_freq",
+            "antenna",
+            "direction",
+            "param_name"
+        ]
+    }
+}
