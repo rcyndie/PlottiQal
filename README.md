@@ -20,5 +20,5 @@ Options:
   --ftick1=FTICK1       Specify frequency axis tick 2
   --zoomed=ZOOMED       Additional zoomed in plot on specific colourbar
   -o OPDIR, --opdir=OPDIR
-```
                         Output folder to store plots
+```
